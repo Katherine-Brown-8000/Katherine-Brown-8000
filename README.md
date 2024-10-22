@@ -1,8 +1,13 @@
 ## Hello there 👋 My name is Katherine Brown, Kat for short
 
-I have by B.A. in Biochemistry and want to enter the field of Bioinformatics
+I have my undergraduate in Biochemistry.
+My currently goal is to enter a master's program for Bioinformatics.
+My reason for entering the field of Bioinformatics is my interest in longevity research, I want to study epigenetic noise.
 
-📫 How to reach me: katherine.brown8000@gmail.com 
+
+🌱 I’m currently learning the Genomic data specialization offered by Johns Hopkins on Coursera
+🤔 I’m looking for help with mentorship, and internship oppertunies
+📫 How to reach me: katherine.brown8000@gmail.com
 
 <!--
 **Katherine-Brown-8000/Katherine-Brown-8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-My email is katherine.brown8000@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
