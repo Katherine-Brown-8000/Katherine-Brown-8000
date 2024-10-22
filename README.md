@@ -10,10 +10,10 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Quantum Chemistry & Quantum Computers
 - Epigenetics & DNA Methylation Research
 
+## 📫 How to reach me:
+- Email: katherine.brown8000@gmail.com 
+- LinkedIn: [https://www.linkedin.com/in/katherine-brown-kb8000/]
 
-🌱 I’m currently learning the Genomic data specialization offered by Johns Hopkins on Coursera 
-🤔 I’m looking for help with mentorship, internship oppertunies and any advice on how to tailor coding abilities for Bioinformatics would be appriciated
-📫 How to reach me: katherine.brown8000@gmail.com
 
 <!--
 **Katherine-Brown-8000/Katherine-Brown-8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
