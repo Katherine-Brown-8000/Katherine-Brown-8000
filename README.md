@@ -5,10 +5,10 @@ My currently goal is to enter a master's program for Bioinformatics.
 My reason for entering the field of Bioinformatics is my interest in longevity research, I want to study epigenetic noise.
 
 ## 🔬 My Interests
-- Bioinformatics & Computational Biology
-- Epigenetics & DNA Methylation Research
-- Biotechnology
-- Quantum Chemistry & Quantum Computers
+- Bioinformatics & Computational Biology 💻
+- Epigenetics & DNA Methylation Research 🧬
+- Biotechnology 🧫
+- Quantum Chemistry & Quantum Computers 🧪
 - Space travel and Space Science 🚀
 - Astrobiology 👽
 
