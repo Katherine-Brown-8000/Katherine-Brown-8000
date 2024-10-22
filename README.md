@@ -1,5 +1,7 @@
 ## Hello there 👋 My name is Katherine Brown, Kat for short
 
+I have by B.A. in Biochemistry and want to enter the field of Bioinformatics
+
 📫 How to reach me: katherine.brown8000@gmail.com 
 
 <!--
