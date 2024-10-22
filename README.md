@@ -6,9 +6,10 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 
 ## 🔬 My Interests
 - Bioinformatics & Computational Biology
-- Biotechnology and CRISPER
-- Quantum Chemistry & Quantum Computers
 - Epigenetics & DNA Methylation Research
+- Biotechnology
+- Quantum Chemistry & Quantum Computers
+- Space travel and Space Science 🚀
 
 ## 📫 How to reach me:
 - Email: katherine.brown8000@gmail.com 
