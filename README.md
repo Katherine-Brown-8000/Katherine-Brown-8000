@@ -1,5 +1,7 @@
 ## Hello there 👋 My name is Katherine Brown, Kat for short
 
+📫 How to reach me: katherine.brown8000@gmail.com 
+
 <!--
 **Katherine-Brown-8000/Katherine-Brown-8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
