@@ -6,7 +6,9 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 
 
 🌱 I’m currently learning the Genomic data specialization offered by Johns Hopkins on Coursera
+
 🤔 I’m looking for help with mentorship, and internship oppertunies
+
 📫 How to reach me: katherine.brown8000@gmail.com
 
 <!--
