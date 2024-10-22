@@ -12,7 +12,7 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 
 ## 📫 How to reach me:
 - Email: katherine.brown8000@gmail.com 
-- LinkedIn: [https://www.linkedin.com/in/katherine-brown-kb8000/]
+- LinkedIn: https://www.linkedin.com/in/katherine-brown-kb8000/
 
 
 <!--
