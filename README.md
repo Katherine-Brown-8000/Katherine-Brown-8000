@@ -10,8 +10,6 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Quantum Chemistry & Quantum Computers
 - Epigenetics & DNA Methylation Research
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📫 How to reach me:
 - Email: katherine.brown8000@gmail.com 
 - LinkedIn: [https://www.linkedin.com/in/katherine-brown-kb8000/]
