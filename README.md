@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Katherine Brown, Kat for short
+## Hello there 👋 My name is Katherine Brown, but most people call me Kat for short
 
 I have by B.A. in Biochemistry and want to enter the field of Bioinformatics
 
