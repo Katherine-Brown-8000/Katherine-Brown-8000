@@ -1,4 +1,4 @@
-## Hello there 😸 My name is Katherine Brown, Kat for short
+## Hello there 🐱 My name is Katherine Brown, Kat for short
 
 I have my undergraduate in Biochemistry.
 My currently goal is to enter a master's program for Bioinformatics.
