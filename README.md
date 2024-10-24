@@ -11,6 +11,10 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Space travel and Space Science 🚀
 - Astrobiology 👽
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janedoe&layout=compact&theme=radical)
+
+![Language](https://img.shields.io/github/languages/top/janedoe/my-repository)
+
 ## 📫 How to reach me:
 - Email: katherine.brown8000@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/katherine-brown-kb8000/
