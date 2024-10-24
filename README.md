@@ -1,4 +1,4 @@
-## Hello there 🐱 My name is Katherine Brown, Kat for short
+## Katherine Brown, 🐱 Kat for short
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat" alt="Katherine-Brown-8000" /> </p>
 
 I have my undergraduate in Biochemistry.
