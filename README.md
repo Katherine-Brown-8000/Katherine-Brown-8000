@@ -11,7 +11,8 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Space travel and Space Science 🚀
 - Astrobiology 👽
 
-## my languages![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+## My languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 
 ## 📫 How to reach me:
