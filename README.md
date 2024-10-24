@@ -12,7 +12,7 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Astrobiology 👽
 
 ## My languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&cache_seconds=1800)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=janedoe&show_icons=true&theme=radical)
 
 
 
