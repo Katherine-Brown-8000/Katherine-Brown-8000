@@ -16,6 +16,9 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
 
+p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
 
 
 
