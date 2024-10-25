@@ -14,7 +14,7 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 
 ## My languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&theme=shadow_blue&layout=compact"width="48%"/> 
@@ -29,8 +29,8 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Email: katherine.brown8000@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/katherine-brown-kb8000/
 
-
-
+Retired displays
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
 
 <!--
 **Katherine-Brown-8000/Katherine-Brown-8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
