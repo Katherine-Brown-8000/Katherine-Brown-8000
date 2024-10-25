@@ -8,7 +8,7 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 ## 🔬 My Interests
 - Bioinformatics & Computational Biology 💻
 - Epigenetic noise, Longevity & DNA Methylation Research 🧬
-- Conputational Chemistry, Quantum Chemistry Quantum Computer& quantum simulation of chemistrys 🧪
+- Conputational Chemistry, Quantum Chemistry Quantum Computer & Quantum simulation of chemistrys 🧪
 - Space travel and Space Science 🚀
 - Astrobiology 👽
 
