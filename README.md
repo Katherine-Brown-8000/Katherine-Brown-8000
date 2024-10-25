@@ -13,27 +13,25 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 - Astrobiology 👽
 
 ## My languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
 
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&theme=shadow_blue&layout=compact"width="48%"/> 
-</p>  
-
-<!---
-<a href="https://github.com/Katherine-Brown-8000/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oraclebrain&repo=github-readme-stats&theme=shadow_green" />
-</a>
 
 ## 📫 How to reach me:
 - Email: katherine.brown8000@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/katherine-brown-kb8000/
 
-Retired displays
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
+
+
 
 <!--
 **Katherine-Brown-8000/Katherine-Brown-8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Retired displays:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&theme=shadow_blue&layout=compact"width="48%"/> 
+</p>  
 
 Here are some ideas to get you started:
 
