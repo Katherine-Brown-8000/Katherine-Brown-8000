@@ -1,4 +1,4 @@
-## Katherine Brown, 🐱 Kat for short
+## Katherine Brown, 🐱 Kat for short <p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat" alt="Katherine-Brown-8000" /> </p>
 
 I have my undergraduate in Biochemistry.
 My currently goal is to enter a master's program for Bioinformatics.
@@ -21,7 +21,7 @@ My reason for entering the field of Bioinformatics is my interest in longevity r
 ## 📫 How to reach me:
 - Email: katherine.brown8000@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/katherine-brown-kb8000/
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat" alt="Katherine-Brown-8000" /> </p>
+
 
 
 
