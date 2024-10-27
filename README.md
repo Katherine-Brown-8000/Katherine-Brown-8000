@@ -9,7 +9,7 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 - Bioinformatics & Computational Biology 💻
 - Longevity, Epigenetic noise, & DNA Methylation Research 🧬
 - Conputational Chemistry, Quantum Chemistry, Quantum Computers & Quantum simulation of chemistry 🧪
-- Space travel and Space Science 🚀
+- Space Science & Space medicine 🚀
 - Astrobiology 👽
 
 ## My languages
