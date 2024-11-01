@@ -15,15 +15,8 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 ## My languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
 
-## Python packages
-- Numpy,
-- Matplotli,
-- Pandas,
-- Biopython,
-- Scipy
-- Scikit-learn
-- Qiskit
-- Tkinter
+## Python packages:
+Numpy, Matplotlib, Pandas, Biopython, Scip, yScikit-learn, Qiskit, Tkinter
 
 
 ## 📫 How to reach me
