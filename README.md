@@ -20,6 +20,13 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
     <img src="https://img.shields.io/badge/OpenQASM-000000.svg?style=for-the-badge&logo=IBM&logoColor=white" alt="OpenQASM" />
 </div>
 
+<h3 align="center">Languages</h3>
+<div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+    <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/OpenQASM-000000.svg?style=for-the-badge&logo=IBM&logoColor=white" alt="OpenQASM" />
+</div>
+
 
 
 ### IDE and online coining envioments
