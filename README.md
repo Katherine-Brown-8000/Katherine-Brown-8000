@@ -12,16 +12,14 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 - Space Science & Space medicine 🚀
 - Astrobiology 👽
 
-## Languages:
-
+## Languages
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     <img src="https://img.shields.io/badge/OpenQASM-000000.svg?style=for-the-badge&logo=IBM&logoColor=white" alt="OpenQASM" />
     <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </div>
 
-## IDE and online coining envioments:
-<h3 align="center">IDE and online coining envioments</h3>
+## IDE and online coining envioments
 <p align="center">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio" />
