@@ -14,8 +14,6 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 
 ## Skilla
 <h3 align="center">Languages</h3>
-
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python" />
     <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
