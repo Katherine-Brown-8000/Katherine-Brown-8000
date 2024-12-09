@@ -13,11 +13,15 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 - Astrobiology 👽
 
 ## Skilla
-# Languages
+### Languages
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
     alt="python" />
 <img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/OpenQASM-000000.svg?style=for-the-badge&logo=IBM&logoColor=white" alt="OpenQASM" />
+
+### IDE and online coining envioments
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
+
 
     
 
