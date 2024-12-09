@@ -13,7 +13,7 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 - Astrobiology 👽
 
 ## Skilla
-### Languages
+<h3 align="center">Languages</h3>
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
     alt="python" />
@@ -31,7 +31,7 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 </div>
 
 
-<h3 align="center">Languages</h3>
+
 
 
     
