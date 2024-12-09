@@ -24,6 +24,7 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 
 ### IDE and online coining envioments
 <h3 align="center">IDE and online coining envioments</h3>
+<p align="center">
 <div style="display: flex; gap: 10px;">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" />
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio" />
