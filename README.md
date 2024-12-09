@@ -27,6 +27,7 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
     <img src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white" alt="Visual Studio" />
     <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Notebook" />
     <img src="https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white" alt="Google Colab" />
+    <img src="https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio" />
 </div>
 
 
