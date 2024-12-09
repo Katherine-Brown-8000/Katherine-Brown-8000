@@ -36,8 +36,6 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 
 
 ## 📫 How to reach me
-<h3 align="center">📫 How to reach me</h3>
-<p align="center">
 Email: katherine.brown8000@gmail.com 
 LinkedIn: https://www.linkedin.com/in/katherine-brown-kb8000/
 
