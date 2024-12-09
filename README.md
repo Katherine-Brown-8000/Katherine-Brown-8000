@@ -16,6 +16,9 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 # Languages
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
     alt="python" />
+<img src="https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+
+    
 
 ## Python packages:
 Numpy, Matplotlib, Pandas, Biopython, Scipy, Scikit-learn, Qiskit, Tkinter
