@@ -12,8 +12,10 @@ My interest in the field of Bioinformatics has to do longevity research. I want 
 - Space Science & Space medicine 🚀
 - Astrobiology 👽
 
-## My languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
+## Skilla
+# Languages
+<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"
+    alt="python" />
 
 ## Python packages:
 Numpy, Matplotlib, Pandas, Biopython, Scipy, Scikit-learn, Qiskit, Tkinter
@@ -30,6 +32,9 @@ Numpy, Matplotlib, Pandas, Biopython, Scipy, Scikit-learn, Qiskit, Tkinter
 **Katherine-Brown-8000/Katherine-Brown-8000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Retired displays:
+
+#![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&layout=compact&theme=radical&cache_seconds=1800)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
