@@ -7,6 +7,7 @@
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Katherine-Brown-8000.Katherine-Brown-8000&style=for-the-badge&color=0e75b6)
 
+![Profile Views](https://hits.sh/github-Katherine-Brown-8000.svg?style=for-the-badge&label=Profile%20Views&color=0e75b6)
 
 
 
