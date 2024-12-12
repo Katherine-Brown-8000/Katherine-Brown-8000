@@ -1,5 +1,4 @@
 ## Katherine Brown, 🐱 Kat for short 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat" alt="Katherine-Brown-8000" /> </p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat-square" alt="Katherine-Brown-8000" />
@@ -54,6 +53,8 @@ Retired displays:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katherine-Brown-8000&theme=shadow_blue&layout=compact"width="48%"/> 
 </p>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat" alt="Katherine-Brown-8000" /> </p>
 
 Here are some ideas to get you started:
 
