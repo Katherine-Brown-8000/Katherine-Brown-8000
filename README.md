@@ -2,6 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Katherine-Brown-8000&label=Profile%20views&color=0e75b6&style=flat" alt="Katherine-Brown-8000" /> </p>
 
 ![Profile Views](https://hits.sh/github-Katherine-Brown-8000.svg?style=flat-square)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Katherine-Brown-8000.Katherine-Brown-8000)
+
 
 
 I have my undergraduate in Biochemistry.
