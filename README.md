@@ -6,9 +6,9 @@
 
 
 
-I have my undergraduate in Biochemistry.
-My currently goal is to enter a master's program for Bioinformatics.
-My interest in the field of Bioinformatics has to do longevity research. I want to study epigenetic noise, The small changes in gene expression that occure in an organism's DNA over it's life time.
+I have my undergraduate degree in biochemistry, I have taken some computer science classes, and hope to enter a graduate program for computational biology or chemistry.
+I am currently working with NeurAstra to try and publish my first paper, analyizing DSUP at different pH conditions.
+I hope to eventualy apply my knowledge in computational biology to epigenetics.
 
 ## 🔬 My Interests
 - Bioinformatics & Computational Biology 💻
